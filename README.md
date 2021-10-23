@@ -4,7 +4,7 @@ Create a blog with Innos Note and Cloudflare Workers.
 
 ## Getting started
 
-1. Set up wrangler CLI: `npm install -g wrangler && wrangler login`
+1. Set up wrangler CLI: `npm install -g @cloudflare/wrangler && wrangler login`
 2. Clone the repository: `git clone https://github.com/robinWongM/innos-blog.git`
 3. Modify variables in `src/config.ts` to suit your needs.
 4. Deploy it! `wrangler publish`
